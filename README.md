@@ -4,7 +4,7 @@
   <img src="https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png" width="200">
 </p>
 
-Bienvenidos al repositorio de mis apuntes del curso "Machine Learning: clasificación con SKLearn" de Alura Latam ofrecido a los gruadados de Oracle Next Education.
+Bienvenidos al repositorio de mis apuntes del curso "Machine Learning: clasificación con SKLearn" de Alura Latam ofrecido a los graduados AlumniONE de Oracle Next Education.
 
 ## Índice
 
