@@ -16,7 +16,7 @@ Bienvenidos al repositorio de mis apuntes del curso "Machine Learning: clasifica
 
 ## Descripción General
 
-Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprendí a implementar machine learning en mis proyectos, me familiaricé con ejemplos prácticos y observé cómo los algoritmos de clasificación se encuentran presentes en nuestra vida cotidiana. Adquirí habilidades para analizar resultados con una mentalidad de científico de datos, compararé algoritmos lineales y no lineales, y comprendí en profundidad el Machine Learning para clasificación. Además, estudié métodos replicables con enfoques de prueba y testeo, y se me introdujo a herramientas específicas como Support Vector Machines, Árboles de Decisión y Dummy Classifiers.
+Este repositorio contiene mi notebook con mis apuntes y ejercicios tomados del curso. Aprendí a implementar machine learning en mis proyectos, me familiaricé con ejemplos prácticos y observé cómo los algoritmos de clasificación se encuentran presentes en nuestra vida cotidiana. Adquirí habilidades para analizar resultados con una mentalidad de científico de datos, compararé algoritmos lineales y no lineales, y comprendí en profundidad el Machine Learning para clasificación. Además, estudié métodos replicables con enfoques de prueba y testeo, y se me introdujo a herramientas específicas como Support Vector Machines, Árboles de Decisión y Dummy Classifiers.
 
 ## Clases
 
