@@ -10,6 +10,7 @@ Bienvenidos al repositorio de mis apuntes del curso "Machine Learning: clasifica
 
 - [Descripción General](#descripción-general)
 - [Clases](#clases)
+- [Intructor](#instructor)
 - [Agradecimientos](#agradecimientos)
 - [Contacto](#contacto)
 - [Licencia](#licencia)
@@ -26,11 +27,15 @@ Este repositorio contiene mi notebook con mis apuntes y ejercicios tomados del c
 4. **Clase 4: Estimadores no lineales**
 5. **Clase 5: Dummy classifiers y Árboles de decisión**
 
-## Agradecimientos
+## Instructor
 
 - **Álvaro Hernando Camacho Diaz**: Álvaro es Ingeniero de Telecomunicaciones especializado en Data Analytics con fuerte interés en estadística, Ciencia de Datos, Aprendizaje de Máquinas y Python. Actúa como micro-empresario e instructor.
     - [LinkedIn](https://www.linkedin.com/in/ahcamachod/)
     - [Instagram](https://www.instagram.com/ahcamachod/)
+
+## Agradecimientos
+
+Un gran agradecimiento a Álvaro Hernando Camacho Diaz, por su increíble instrucción en este curso. También quiero agradecer a Alura Latam y Oracle Next Education (ONE) por proporcionar esta valiosa oportunidad educativa a sus AlumniONE.
 
 ## Contacto
 
